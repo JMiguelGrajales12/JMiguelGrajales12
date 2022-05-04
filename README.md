@@ -1,3 +1,9 @@
+# Jose Miguel Grajales y Miguel Angel Toro
+Somos estudiantes de Media Tecnica en Desarrollo de Software De la Institucion Educativa Santa Elena, residimos actualmente en la ciudad de Medellin, nos caratecterizamos principalmente por nuestro carisma y honestidad. Jose Miguel maneja y estudia el idioma inglès, a Miguel le gusta y le interesan las ciencia sociales, nos satisface el trabajo en equipo y algunas habilidades en comùn son: el buen uso de los conceptos desarrollados a lo largo de nuestra media tècnica, que nos hace competentes para la realizaciòn de tareas relacionadas a la computaciòn y nuestro estilo de trabajo nos facilita alcanzar nuestros objetivos como equipo.
+
+![image](https://user-images.githubusercontent.com/104166590/166820141-1dc454d1-d325-4067-9c00-8185066f8bda.png)
+
+
 ### Hi there 👋
 
 <!--
